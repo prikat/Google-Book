@@ -55,7 +55,6 @@ No tests to run.
 
 ## Questions
 
-<img src="https://avatars3.githubusercontent.com/u/62568395?v=4" width="100" height="100">
 
 For any questions, please contact at aprykotenko@gmail.com
 
