@@ -60,5 +60,5 @@ For any questions, please contact at aprykotenko@gmail.com
 
 ## Deployed Application URL
 
-Deployed application link: 
+Deployed application link: https://pristine-arches-60028.herokuapp.com/
 
